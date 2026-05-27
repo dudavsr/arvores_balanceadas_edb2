@@ -10,7 +10,8 @@ Finalmente, rode a terceira célula para executar.
 Com isso, irá aparecer o sistema de árvores balanceadas, tendo como opções:
 1. Árvore AVL
 2. Árvore Rubro-Negra
-3. Executar teste automático;
+3. Executar teste automático.
+
 Para digitar, clique antes no espaço após “Por favor, escolha o tipo de árvore, digite o número: ” Digite o número da opção escolhida.
 A partir disso, você irá automaticamente para o menu de ações do tipo de árvore escolhida, selecione novamente o que deseja fazer. 
 
